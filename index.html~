@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>CraftyCorner.com</title>
+<style>
+body {
+	background-image: url("/home/student/avijoy/handicraft/wall.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+	background-position: center;
+} 
+</style>
+</head>
+<body>
+<center>
+<h1 style="background-color: #1a75ff"> <font color="white">Crafty Corner</font></h1>
+<hr>
+<img src="/home/student/avijoy/handicraft/logo.png" height="80px" width="80px" align="left">
+<br>
+<h3><font color="white">We Among the Best Hand Craft industry growing up right now. Check out the items hope you like them! </font></h3>
+</center>
+<br>
+<hr> 
+
+<h4><b><font color="white">Here are the Indian Handcraft Items that we are offering right now with best deals:- </font></b></h4>
+ <ul>
+  <li>Jewellery</li>
+  <form action="/home/student/avijoy/travel.com/delhi.html">
+    <input type="submit" value="Book Now!" />
+</form>
+ <br>
+ <li>Home Decor</li>
+  <form action="/home/student/avijoy/travel.com/mumbai.html">
+    <input type="submit" value="Book Now!"/>
+</form>
+<br>
+ 
+ 
+  <li>Divine Collection</li>
+  <form action="/home/student/avijoy/travel.com/kolkata.html">
+    <input type="submit" value="Book Now!" />
+</form>
+<br>
+
+
+<li>Furnitures</li>
+  <form action="/home/student/avijoy/travel.com/chennai.html">
+    <input type="submit" value="Book Now!" />
+</form>
+<br>
+</ul>
+<center>
+<form action="/home/student/avijoy/handicraft/aboutus.html">
+    <input type="submit" value="About Us" />
+  </form>
+</center> 
+<hr> 
+<center>
+<b><p><font color="white">&copy; 2020 Bengal Hand Craftors Production</font><p></b>
+</center>
+</body>
+</html>
+

@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>traveler.com</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body bgcolor="#d5ff80">
+<center>
+<h1 style="background-color: #1a75ff"> <font color="white">Traveler</font></h2>
+<hr>
+<img src="/home/student/avijoy/travel.com/logo.png" height="80px" width="80px" align="left">
+<br>
+<h3>We Among the Best travelling websites</h3>
+</center>
+<br>
+<hr>
+<form action="/home/student/avijoy/travel.com/travel.html">
+    <input type="submit" value="Home" />
+<img src="/home/student/avijoy/travel.com/adb.png" height="300px" width="275px" align="right">
+<h4><b>Here are some words from our Company owner/creator:- </b></h4>
+ <p>India, the land of vividness and rich heritage are known for its incredible art form. Art and craft of the nation are as fascinating and grand as of its tradition. Somewhere people feel that the incredibility of art is not as glorified as it deserves. It is not that people in India are not passionate about creativity or art forms; rather, it can be claimed that these things are not explored strategically as it should have been. </p>
+ <br>
+ <br>
+ <br>
+ <h4>Hope You Like It ;")</h4>
+ <br>
+<hr> 
+<center>
+<b><p>&copy; 2020 Bengal Hand Craftors Production<p></b>
+</center>
+</body>
+</html>
+
